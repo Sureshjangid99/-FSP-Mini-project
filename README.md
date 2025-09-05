@@ -2,8 +2,8 @@
 
 > [A catchy one-line tagline for your project.]
 
-[Add a screenshot or a GIF of your project in action here! This is highly recommended.]
-![Project Screenshot](link_to_your_screenshot.png)
+
+![https://github.com/Sureshjangid99/Mini-project-s/commit/7538ce511679cbb41ad33385ddf708399f60bda8](link_to_your_screenshot.png)
 
 ## 📖 About This Project
 
