@@ -1,27 +1,44 @@
-# [Data analysis (FSP)] 🚀
+# Data analysis (FSP) 🚀
 
-> [A data-driven analysis to solve a quick-commerce startup's delivery crisis and improve customer retention.]
+ A data-driven analysis to solve a quick-commerce startup's delivery crisis and improve customer retention.
 
 [View a key commit for this  project](https://github.com/Sureshjangid99/Mini-project-s/blob/main/FSP%20project%20ss.png?raw=true)
 
 ## 📖 About This Project
-This project analyzes operational issues at the quick-commerce startup, QuickBazaar, which is facing declining revenue and customer churn. Using statistical tools, the analysis identified key problems: inefficient delivery logistics, with delivery times double those of competitors like Zepto in high-traffic zones, and poor inventory management leading to stockouts of high-demand items.
+This project is a data analysis and strategy-building exercise for a quick-commerce startup facing operational issues. The primary goal is to use a data-driven approach to diagnose the company's core operational problems, analyze delivery and customer data using statistical concepts, and present a recovery strategy based on the findings. The ultimate objective is to solve these underlying issues to improve customer satisfaction and increase growth.
+
+## Problem statement 
+
+The analysis revealed several critical issues the startup is facing:
+Inefficient Deliveries: Compared to competitors like Zepto and Blinkit, average delivery times are twice as high in some high-traffic zones. This inefficiency is strongly correlated with negative customer ratings and dissatisfaction.
+Poor Inventory Management: The company often runs out of stock for high-demand products, leading to a poor customer experience and abandoned orders.
+Customer Churn: A summary of customer feedback shows the top complaints are late deliveries and item unavailability. This has led to a sharp increase in customer churn and app uninstalls.
+Declining Revenue: There has been a significant decline in Average Order Value (AOV) over the last two quarters, showing that customers are spending less per order.
+
 
 ## ✨ Key Features
 
-* **User Authentication:** Secure login and registration for users.
-* **Interactive Dashboard:** A dynamic dashboard to visualize data.
-* **Real-time Updates:** Implemented WebSockets for live data feeds.
-* **Responsive Design:** Fully functional on both desktop and mobile devices.
+To address the problems, the following data analysis steps were performed:
+#Statistical Analysis: Discovered a high variance in delivery times, with a mean of 48 minutes but a median of only 28 minutes, indicating that a few very late orders were skewing the average.
+#Correlation Mapping: Using a heatmap in Orange, a relationship was identified between specific "Pincodes" and the frequency of "Late Deliveries". The analysis also found a strong correlation between delays and orders placed after 6 PM.
+#Geospatial Analysis: Used GeoGebra to map late orders, revealing three specific "hotspot" neighborhoods. The probability of a late delivery in these zones during peak hours was calculated to be over 70%.
+#Data Visualization: Leveraged Orange's "Distributions" widget to visualize the spread and patterns of key variables like delivery times and customer ratings.
+
+## The Strategy & Solution
+
+*Based on the analysis, a targeted, data-driven recovery plan was developed and visualized using Flourish:
+*Pre-position Riders: Station riders near the identified hotspots before the evening rush begins.
+*Batch Orders: Group orders together in dense areas to improve efficiency.
+*Offer Discounts: Introduce off-peak discounts to manage order flow.
 
 ## 🛠️ Tech Stack
 
-A list of the primary technologies used in the project:
+Google Sheets: Used for initial planning and setting deadlines among team members.
+Orange: For creating heatmaps to identify correlations and using distribution widgets to understand data patterns.
+GeoGebra: To map late orders and visually identify "hotspot" neighborhoods with high delay probabilities.
+Flourish: To create visualizations for the proposed targeted recovery plan.
+Napkin AI: Used for creating the Order Journey Map.
 
-* **Frontend:** React.js, Redux, Styled-Components
-* **Backend:** Python, Django REST Framework
-* **Database:** PostgreSQL
-* **Deployment:** Vercel, Heroku
 
 ## ⚙️ Getting Started
 
@@ -29,46 +46,30 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-Make sure you have the following installed:
-* Node.js (v16 or higher)
-* Python (v3.9 or higher)
-* An account with [mention any API services you used, e.g., Cloudinary].
+*This is a list of the software and tools you will need to reproduce the analysis presented in this project:
+*Google Sheets: Used for initial planning and setting project deadlines.
+*Orange: Employed for data analysis, including finding correlations between variables , visualizing data with "Distributions" widgets , and creating heatmaps.
+*GeoGebra: Needed to map late orders and visually identify the three "hotspot" neighborhoods
+*Flourish: Required to visualize the targeted recovery plan.
+*Napkin AI: Used to create the Order Journey Map.
 
 ### Installation & Setup
 
 1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
-    cd your-repository
-    ```
+ https://github.com/Sureshjangid99
 
-2.  **Setup Frontend:**
-    ```sh
-    # Navigate to the frontend folder
-    cd client
+** This project is a data analysis study and does not require a traditional software installation. The setup process involves ensuring you have access to the necessary data analysis tools and the project's dataset. ** 
 
-    # Install dependencies
-    npm install
+## Install the Required Software:
+Orange Data Mining: Download and install the application from the official Orange website. This will be used for the core data analysis, visualization, and creating heatmaps.
+GeoGebra: Download and install the application from its official website. This is needed for mapping the late delivery data.
 
-    # Create a .env file and add your environment variables
-    cp .env.example .env
-    ```
+## Access Web-Based Tools:
+Google Sheets, Flourish, and Napkin AI are web-based services. No installation is required, but you may need to register for an account on their respective websites.
 
-3.  **Setup Backend:**
-    ```sh
-    # Navigate to the backend folder
-    cd server
+## Prepare the Dataset:
+The first step of the analysis is to import the provided datasets into the tools. Make sure you have the project data files available on your local machine.
 
-    # Install dependencies
-    pip install -r requirements.txt
-
-    # Create a .env file and add your environment variables
-    # (e.g., database URL, secret keys)
-    ```
-
-4.  **Run the application:**
-    * Start the backend server: `python manage.py runserver`
-    * Start the frontend development server: `npm start`
 
 ## 📄 License
 
