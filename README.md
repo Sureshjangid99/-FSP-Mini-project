@@ -1,8 +1,8 @@
 # [Your Project Title] 🚀
 
 > [A catchy one-line tagline for your project.]
-> 
-[https://github.com/Sureshjangid99/Mini-project-s/blob/main/FSP%20project%20ss.png?raw=true](link_to_your_screenshot.png)
+
+[View a key commit for this  project][https://github.com/Sureshjangid99/Mini-project-s/blob/main/FSP%20project%20ss.png?raw=true](link_to_your_screenshot.png)
 
 ## 📖 About This Project
 
