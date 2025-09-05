@@ -3,7 +3,7 @@
 > [A catchy one-line tagline for your project.]
 
 
-![https://github.com/Sureshjangid99/Mini-project-s/commit/7538ce511679cbb41ad33385ddf708399f60bda8](link_to_your_screenshot.png)
+[https://github.com/Sureshjangid99/Mini-project-s/blob/main/FSP%20project%20ss.png?raw=true](link_to_your_screenshot.png)
 
 ## 📖 About This Project
 
