@@ -97,10 +97,6 @@ Google Sheets, Flourish, and Napkin AI are web-based services. No installation i
 The first step of the analysis is to import the provided datasets into the tools. Make sure you have the project data files available on your local machine.
 
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## ✍️ Author
 
 **[Suresh jangid]**
@@ -108,7 +104,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 * LinkedIn: http://www.linkedin.com/in/suresh-jangid-b06a47280
 * GitHub: https://github.com/Sureshjangid99
 
-## Contributors:
+## 💻 Contributors:
 
 **[Suresh jangid]**
 
@@ -122,10 +118,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 **[Krishna Pratap Singh Chauhan]**
 
-* LinkedIn:
-* GitHub:
+* LinkedIn: https://www.linkedin.com/in/kpsingh20
+* GitHub: https://github.com/kpsingh-26
 
 **[Ishita Chaudhary]**
 
 * LinkedIn:
-* GitHub:
+* GitHub: https://github.com/Ishita-tech-hub
