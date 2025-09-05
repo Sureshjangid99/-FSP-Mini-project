@@ -117,15 +117,15 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 **[Samiksha Kaushik]**
 
-LinkedIn: https://www.linkedin.com/in/samiksha-kaushik-b8a6702a5
-GitHub: https://github.com/SamikshaKaushik-developer
+* LinkedIn: https://www.linkedin.com/in/samiksha-kaushik-b8a6702a5
+* GitHub: https://github.com/SamikshaKaushik-developer
 
 **[Krishna Pratap Singh Chauhan]**
 
-LinkedIn:
-GitHub:
+* LinkedIn:
+* GitHub:
 
 **[Ishita Chaudhary]**
 
-LinkedIn:
-GitHub:
+* LinkedIn:
+* GitHub:
