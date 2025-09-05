@@ -1,12 +1,11 @@
-# [Your Project Title] 🚀
+# [Data analysis (FSP)] 🚀
 
 > [A catchy one-line tagline for your project.]
 
 [View a key commit for this  project](https://github.com/Sureshjangid99/Mini-project-s/blob/main/FSP%20project%20ss.png?raw=true)
 
 ## 📖 About This Project
-
-A more detailed description of the project. Why did you build it? What problem does it solve? What did you learn while making it? This is a great place to showcase your thought process.
+This project analyzes operational issues at the quick-commerce startup, QuickBazaar, which is facing declining revenue and customer churn. Using statistical tools, the analysis identified key problems: inefficient delivery logistics, with delivery times double those of competitors like Zepto in high-traffic zones, and poor inventory management leading to stockouts of high-demand items.
 
 ## ✨ Key Features
 
@@ -77,8 +76,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## ✍️ Author
 
-**[Your Name]**
+**[Suresh jangid]**
 
 * Portfolio: `[Link to your portfolio]`
-* LinkedIn: `https://linkedin.com/in/your-profile`
-* GitHub: `https://github.com/your-username`
+* LinkedIn: http://www.linkedin.com/in/suresh-jangid-b06a47280
+* GitHub: https://github.com/Sureshjangid99
