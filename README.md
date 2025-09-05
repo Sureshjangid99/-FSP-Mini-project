@@ -1,6 +1,6 @@
 # [Data analysis (FSP)] 🚀
 
-> [A catchy one-line tagline for your project.]
+> [A data-driven analysis to solve a quick-commerce startup's delivery crisis and improve customer retention.]
 
 [View a key commit for this  project](https://github.com/Sureshjangid99/Mini-project-s/blob/main/FSP%20project%20ss.png?raw=true)
 
