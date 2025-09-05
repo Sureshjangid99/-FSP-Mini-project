@@ -76,8 +76,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation & Setup
 
 1.  **Clone the repository:**
-2.  
- https://github.com/Sureshjangid99
+2. https://github.com/Sureshjangid99
 
 ** This project is a data analysis study and does not require a traditional software installation. 
 
