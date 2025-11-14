@@ -72,13 +72,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 *Napkin AI: Used to create the Order Journey Map.
 
-
-### Installation & Setup
-
-1.  **Clone the repository:**
-2.  
- https://github.com/Sureshjangid99
-
 ** This project is a data analysis study and does not require a traditional software installation. 
 
 The setup process involves ensuring you have access to the necessary data analysis tools and the project's dataset. ** 
